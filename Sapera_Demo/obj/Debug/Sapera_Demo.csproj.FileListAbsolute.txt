@@ -1,0 +1,151 @@
+c:\users\daekhon\documents\visual studio 2015\Projects\Sapera_Demo\Sapera_Demo\bin\Debug\Sapera_Demo.exe.config
+c:\users\daekhon\documents\visual studio 2015\Projects\Sapera_Demo\Sapera_Demo\bin\Debug\Sapera_Demo.exe
+c:\users\daekhon\documents\visual studio 2015\Projects\Sapera_Demo\Sapera_Demo\bin\Debug\Sapera_Demo.pdb
+c:\users\daekhon\documents\visual studio 2015\Projects\Sapera_Demo\Sapera_Demo\obj\Debug\Sapera_Demo.csprojResolveAssemblyReference.cache
+c:\users\daekhon\documents\visual studio 2015\Projects\Sapera_Demo\Sapera_Demo\obj\Debug\Sapera_Demo.Form_Main.resources
+c:\users\daekhon\documents\visual studio 2015\Projects\Sapera_Demo\Sapera_Demo\obj\Debug\Sapera_Demo.Properties.Resources.resources
+c:\users\daekhon\documents\visual studio 2015\Projects\Sapera_Demo\Sapera_Demo\obj\Debug\Sapera_Demo.csproj.GenerateResource.Cache
+c:\users\daekhon\documents\visual studio 2015\Projects\Sapera_Demo\Sapera_Demo\obj\Debug\Sapera_Demo.exe
+c:\users\daekhon\documents\visual studio 2015\Projects\Sapera_Demo\Sapera_Demo\obj\Debug\Sapera_Demo.pdb
+c:\users\daekhon\documents\visual studio 2015\Projects\Sapera_Demo\Sapera_Demo\bin\Debug\Cognex.VisionPro.Controls.dll
+c:\users\daekhon\documents\visual studio 2015\Projects\Sapera_Demo\Sapera_Demo\bin\Debug\Cognex.VisionPro.Core.dll
+c:\users\daekhon\documents\visual studio 2015\Projects\Sapera_Demo\Sapera_Demo\bin\Debug\Cognex.VisionPro.CorePlus.dll
+c:\users\daekhon\documents\visual studio 2015\Projects\Sapera_Demo\Sapera_Demo\bin\Debug\Cognex.VisionPro.Display.Controls.dll
+c:\users\daekhon\documents\visual studio 2015\Projects\Sapera_Demo\Sapera_Demo\bin\Debug\Cognex.VisionPro.dll
+c:\users\daekhon\documents\visual studio 2015\Projects\Sapera_Demo\Sapera_Demo\bin\Debug\Cognex.VisionPro.FGGigE.dll
+c:\users\daekhon\documents\visual studio 2015\Projects\Sapera_Demo\Sapera_Demo\bin\Debug\Cognex.VisionPro.ImageFile.dll
+c:\users\daekhon\documents\visual studio 2015\Projects\Sapera_Demo\Sapera_Demo\bin\Debug\Cognex.VisionPro.ImageProcessing.dll
+c:\users\daekhon\documents\visual studio 2015\Projects\Sapera_Demo\Sapera_Demo\bin\Debug\Cognex.VisionPro.ToolGroup.dll
+c:\users\daekhon\documents\visual studio 2015\Projects\Sapera_Demo\Sapera_Demo\bin\Debug\Cognex.VisionPro3D.Core.dll
+c:\users\daekhon\documents\visual studio 2015\Projects\Sapera_Demo\Sapera_Demo\bin\Debug\Cognex.VisionPro3D.Display.Controls.dll
+c:\users\daekhon\documents\visual studio 2015\Projects\Sapera_Demo\Sapera_Demo\bin\Debug\Cognex.VisionPro3D.dll
+c:\users\daekhon\documents\visual studio 2015\Projects\Sapera_Demo\Sapera_Demo\bin\Debug\Cognex.VisionPro3D.Graphic.dll
+c:\users\daekhon\documents\visual studio 2015\Projects\Sapera_Demo\Sapera_Demo\bin\Debug\DALSA.SaperaLT.SapClassBasic.dll
+c:\users\daekhon\documents\visual studio 2015\Projects\Sapera_Demo\Sapera_Demo\bin\Debug\Cognex.VisionPro.Interop.Core.dll
+c:\users\daekhon\documents\visual studio 2015\Projects\Sapera_Demo\Sapera_Demo\bin\Debug\stdole.dll
+c:\users\daekhon\documents\visual studio 2015\Projects\Sapera_Demo\Sapera_Demo\bin\Debug\Cognex.VisionPro.xml
+c:\users\daekhon\documents\visual studio 2015\Projects\Sapera_Demo\Sapera_Demo\bin\Debug\Cognex.VisionPro.Core.xml
+c:\users\daekhon\documents\visual studio 2015\Projects\Sapera_Demo\Sapera_Demo\bin\Debug\Cognex.VisionPro.CorePlus.xml
+c:\users\daekhon\documents\visual studio 2015\Projects\Sapera_Demo\Sapera_Demo\bin\Debug\Cognex.VisionPro.Display.Controls.xml
+c:\users\daekhon\documents\visual studio 2015\Projects\Sapera_Demo\Sapera_Demo\bin\Debug\Cognex.VisionPro.FGGigE.xml
+c:\users\daekhon\documents\visual studio 2015\Projects\Sapera_Demo\Sapera_Demo\bin\Debug\Cognex.VisionPro.ImageFile.xml
+c:\users\daekhon\documents\visual studio 2015\Projects\Sapera_Demo\Sapera_Demo\bin\Debug\Cognex.VisionPro.ImageProcessing.xml
+c:\users\daekhon\documents\visual studio 2015\Projects\Sapera_Demo\Sapera_Demo\bin\Debug\Cognex.VisionPro.ToolGroup.xml
+c:\users\daekhon\documents\visual studio 2015\Projects\Sapera_Demo\Sapera_Demo\bin\Debug\Cognex.VisionPro3D.xml
+c:\users\daekhon\documents\visual studio 2015\Projects\Sapera_Demo\Sapera_Demo\bin\Debug\Cognex.VisionPro3D.Core.xml
+c:\users\daekhon\documents\visual studio 2015\Projects\Sapera_Demo\Sapera_Demo\bin\Debug\Cognex.VisionPro3D.Display.Controls.xml
+c:\users\daekhon\documents\visual studio 2015\Projects\Sapera_Demo\Sapera_Demo\bin\Debug\Cognex.VisionPro3D.Graphic.xml
+C:\Users\1\Desktop\Sapera_Demo\Sapera_Demo\bin\Debug\Sapera_Demo.exe.config
+C:\Users\1\Desktop\Sapera_Demo\Sapera_Demo\obj\Debug\Sapera_Demo.exe
+C:\Users\1\Desktop\Sapera_Demo\Sapera_Demo\obj\Debug\Sapera_Demo.pdb
+C:\Users\1\Desktop\Sapera_Demo\Sapera_Demo\bin\Debug\Sapera_Demo.exe
+C:\Users\1\Desktop\Sapera_Demo\Sapera_Demo\bin\Debug\Sapera_Demo.pdb
+C:\Users\1\Desktop\Sapera_Demo\Sapera_Demo\bin\Debug\Cognex.VisionPro.Controls.dll
+C:\Users\1\Desktop\Sapera_Demo\Sapera_Demo\bin\Debug\Cognex.VisionPro.Core.dll
+C:\Users\1\Desktop\Sapera_Demo\Sapera_Demo\bin\Debug\Cognex.VisionPro.CorePlus.dll
+C:\Users\1\Desktop\Sapera_Demo\Sapera_Demo\bin\Debug\Cognex.VisionPro.Display.Controls.dll
+C:\Users\1\Desktop\Sapera_Demo\Sapera_Demo\bin\Debug\Cognex.VisionPro.dll
+C:\Users\1\Desktop\Sapera_Demo\Sapera_Demo\bin\Debug\Cognex.VisionPro.FGGigE.dll
+C:\Users\1\Desktop\Sapera_Demo\Sapera_Demo\bin\Debug\Cognex.VisionPro.ImageFile.dll
+C:\Users\1\Desktop\Sapera_Demo\Sapera_Demo\bin\Debug\Cognex.VisionPro.ImageProcessing.dll
+C:\Users\1\Desktop\Sapera_Demo\Sapera_Demo\bin\Debug\Cognex.VisionPro.ToolGroup.dll
+C:\Users\1\Desktop\Sapera_Demo\Sapera_Demo\bin\Debug\Cognex.VisionPro3D.Core.dll
+C:\Users\1\Desktop\Sapera_Demo\Sapera_Demo\bin\Debug\Cognex.VisionPro3D.Display.Controls.dll
+C:\Users\1\Desktop\Sapera_Demo\Sapera_Demo\bin\Debug\Cognex.VisionPro3D.dll
+C:\Users\1\Desktop\Sapera_Demo\Sapera_Demo\bin\Debug\Cognex.VisionPro3D.Graphic.dll
+C:\Users\1\Desktop\Sapera_Demo\Sapera_Demo\bin\Debug\DALSA.SaperaLT.SapClassBasic.dll
+C:\Users\1\Desktop\Sapera_Demo\Sapera_Demo\bin\Debug\Cognex.VisionPro.Interop.Core.dll
+C:\Users\1\Desktop\Sapera_Demo\Sapera_Demo\bin\Debug\stdole.dll
+C:\Users\1\Desktop\Sapera_Demo\Sapera_Demo\bin\Debug\Cognex.VisionPro.xml
+C:\Users\1\Desktop\Sapera_Demo\Sapera_Demo\bin\Debug\Cognex.VisionPro.Core.xml
+C:\Users\1\Desktop\Sapera_Demo\Sapera_Demo\bin\Debug\Cognex.VisionPro.CorePlus.xml
+C:\Users\1\Desktop\Sapera_Demo\Sapera_Demo\bin\Debug\Cognex.VisionPro.Display.Controls.xml
+C:\Users\1\Desktop\Sapera_Demo\Sapera_Demo\bin\Debug\Cognex.VisionPro.FGGigE.xml
+C:\Users\1\Desktop\Sapera_Demo\Sapera_Demo\bin\Debug\Cognex.VisionPro.ImageFile.xml
+C:\Users\1\Desktop\Sapera_Demo\Sapera_Demo\bin\Debug\Cognex.VisionPro.ImageProcessing.xml
+C:\Users\1\Desktop\Sapera_Demo\Sapera_Demo\bin\Debug\Cognex.VisionPro.ToolGroup.xml
+C:\Users\1\Desktop\Sapera_Demo\Sapera_Demo\bin\Debug\Cognex.VisionPro3D.xml
+C:\Users\1\Desktop\Sapera_Demo\Sapera_Demo\bin\Debug\Cognex.VisionPro3D.Core.xml
+C:\Users\1\Desktop\Sapera_Demo\Sapera_Demo\bin\Debug\Cognex.VisionPro3D.Display.Controls.xml
+C:\Users\1\Desktop\Sapera_Demo\Sapera_Demo\bin\Debug\Cognex.VisionPro3D.Graphic.xml
+C:\Users\1\Desktop\Sapera_Demo\Sapera_Demo\obj\Debug\Sapera_Demo.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\Sapera_Demo\Sapera_Demo\obj\Debug\Sapera_Demo.Form_Main.resources
+C:\Users\1\Desktop\Sapera_Demo\Sapera_Demo\obj\Debug\Sapera_Demo.Properties.Resources.resources
+C:\Users\1\Desktop\Sapera_Demo\Sapera_Demo\obj\Debug\Sapera_Demo.csproj.GenerateResource.Cache
+C:\Users\1\Desktop\JY\Sapera_Demo\Sapera_Demo\bin\Debug\Sapera_Demo.exe.config
+C:\Users\1\Desktop\JY\Sapera_Demo\Sapera_Demo\obj\Debug\Sapera_Demo.exe
+C:\Users\1\Desktop\JY\Sapera_Demo\Sapera_Demo\obj\Debug\Sapera_Demo.pdb
+C:\Users\1\Desktop\JY\Sapera_Demo\Sapera_Demo\bin\Debug\Sapera_Demo.exe
+C:\Users\1\Desktop\JY\Sapera_Demo\Sapera_Demo\bin\Debug\Sapera_Demo.pdb
+C:\Users\1\Desktop\JY\Sapera_Demo\Sapera_Demo\bin\Debug\Cognex.VisionPro.Controls.dll
+C:\Users\1\Desktop\JY\Sapera_Demo\Sapera_Demo\bin\Debug\Cognex.VisionPro.Core.dll
+C:\Users\1\Desktop\JY\Sapera_Demo\Sapera_Demo\bin\Debug\Cognex.VisionPro.CorePlus.dll
+C:\Users\1\Desktop\JY\Sapera_Demo\Sapera_Demo\bin\Debug\Cognex.VisionPro.Display.Controls.dll
+C:\Users\1\Desktop\JY\Sapera_Demo\Sapera_Demo\bin\Debug\Cognex.VisionPro.dll
+C:\Users\1\Desktop\JY\Sapera_Demo\Sapera_Demo\bin\Debug\Cognex.VisionPro.FGGigE.dll
+C:\Users\1\Desktop\JY\Sapera_Demo\Sapera_Demo\bin\Debug\Cognex.VisionPro.ImageFile.dll
+C:\Users\1\Desktop\JY\Sapera_Demo\Sapera_Demo\bin\Debug\Cognex.VisionPro.ImageProcessing.dll
+C:\Users\1\Desktop\JY\Sapera_Demo\Sapera_Demo\bin\Debug\Cognex.VisionPro.ToolGroup.dll
+C:\Users\1\Desktop\JY\Sapera_Demo\Sapera_Demo\bin\Debug\Cognex.VisionPro3D.Core.dll
+C:\Users\1\Desktop\JY\Sapera_Demo\Sapera_Demo\bin\Debug\Cognex.VisionPro3D.Display.Controls.dll
+C:\Users\1\Desktop\JY\Sapera_Demo\Sapera_Demo\bin\Debug\Cognex.VisionPro3D.dll
+C:\Users\1\Desktop\JY\Sapera_Demo\Sapera_Demo\bin\Debug\Cognex.VisionPro3D.Graphic.dll
+C:\Users\1\Desktop\JY\Sapera_Demo\Sapera_Demo\bin\Debug\DALSA.SaperaLT.SapClassBasic.dll
+C:\Users\1\Desktop\JY\Sapera_Demo\Sapera_Demo\bin\Debug\Cognex.VisionPro.Interop.Core.dll
+C:\Users\1\Desktop\JY\Sapera_Demo\Sapera_Demo\bin\Debug\stdole.dll
+C:\Users\1\Desktop\JY\Sapera_Demo\Sapera_Demo\bin\Debug\Cognex.VisionPro.xml
+C:\Users\1\Desktop\JY\Sapera_Demo\Sapera_Demo\bin\Debug\Cognex.VisionPro.Core.xml
+C:\Users\1\Desktop\JY\Sapera_Demo\Sapera_Demo\bin\Debug\Cognex.VisionPro.CorePlus.xml
+C:\Users\1\Desktop\JY\Sapera_Demo\Sapera_Demo\bin\Debug\Cognex.VisionPro.Display.Controls.xml
+C:\Users\1\Desktop\JY\Sapera_Demo\Sapera_Demo\bin\Debug\Cognex.VisionPro.FGGigE.xml
+C:\Users\1\Desktop\JY\Sapera_Demo\Sapera_Demo\bin\Debug\Cognex.VisionPro.ImageFile.xml
+C:\Users\1\Desktop\JY\Sapera_Demo\Sapera_Demo\bin\Debug\Cognex.VisionPro.ImageProcessing.xml
+C:\Users\1\Desktop\JY\Sapera_Demo\Sapera_Demo\bin\Debug\Cognex.VisionPro.ToolGroup.xml
+C:\Users\1\Desktop\JY\Sapera_Demo\Sapera_Demo\bin\Debug\Cognex.VisionPro3D.xml
+C:\Users\1\Desktop\JY\Sapera_Demo\Sapera_Demo\bin\Debug\Cognex.VisionPro3D.Core.xml
+C:\Users\1\Desktop\JY\Sapera_Demo\Sapera_Demo\bin\Debug\Cognex.VisionPro3D.Display.Controls.xml
+C:\Users\1\Desktop\JY\Sapera_Demo\Sapera_Demo\bin\Debug\Cognex.VisionPro3D.Graphic.xml
+C:\Users\1\Desktop\JY\Sapera_Demo\Sapera_Demo\obj\Debug\Sapera_Demo.csprojResolveAssemblyReference.cache
+C:\Users\1\Desktop\JY\Sapera_Demo\Sapera_Demo\obj\Debug\Sapera_Demo.Form_Main.resources
+C:\Users\1\Desktop\JY\Sapera_Demo\Sapera_Demo\obj\Debug\Sapera_Demo.Properties.Resources.resources
+C:\Users\1\Desktop\JY\Sapera_Demo\Sapera_Demo\obj\Debug\Sapera_Demo.csproj.GenerateResource.Cache
+D:\Daekhon\Project\Dalsa linescan\JY\Sapera_Demo\Sapera_Demo\bin\Debug\Sapera_Demo.exe.config
+D:\Daekhon\Project\Dalsa linescan\JY\Sapera_Demo\Sapera_Demo\obj\Debug\Sapera_Demo.exe
+D:\Daekhon\Project\Dalsa linescan\JY\Sapera_Demo\Sapera_Demo\obj\Debug\Sapera_Demo.pdb
+D:\Daekhon\Project\Dalsa linescan\JY\Sapera_Demo\Sapera_Demo\bin\Debug\Sapera_Demo.exe
+D:\Daekhon\Project\Dalsa linescan\JY\Sapera_Demo\Sapera_Demo\bin\Debug\Sapera_Demo.pdb
+D:\Daekhon\Project\Dalsa linescan\JY\Sapera_Demo\Sapera_Demo\bin\Debug\Cognex.VisionPro.Controls.dll
+D:\Daekhon\Project\Dalsa linescan\JY\Sapera_Demo\Sapera_Demo\bin\Debug\Cognex.VisionPro.Core.dll
+D:\Daekhon\Project\Dalsa linescan\JY\Sapera_Demo\Sapera_Demo\bin\Debug\Cognex.VisionPro.CorePlus.dll
+D:\Daekhon\Project\Dalsa linescan\JY\Sapera_Demo\Sapera_Demo\bin\Debug\Cognex.VisionPro.Display.Controls.dll
+D:\Daekhon\Project\Dalsa linescan\JY\Sapera_Demo\Sapera_Demo\bin\Debug\Cognex.VisionPro.dll
+D:\Daekhon\Project\Dalsa linescan\JY\Sapera_Demo\Sapera_Demo\bin\Debug\Cognex.VisionPro.FGGigE.dll
+D:\Daekhon\Project\Dalsa linescan\JY\Sapera_Demo\Sapera_Demo\bin\Debug\Cognex.VisionPro.ImageFile.dll
+D:\Daekhon\Project\Dalsa linescan\JY\Sapera_Demo\Sapera_Demo\bin\Debug\Cognex.VisionPro.ImageProcessing.dll
+D:\Daekhon\Project\Dalsa linescan\JY\Sapera_Demo\Sapera_Demo\bin\Debug\Cognex.VisionPro.ToolGroup.dll
+D:\Daekhon\Project\Dalsa linescan\JY\Sapera_Demo\Sapera_Demo\bin\Debug\Cognex.VisionPro3D.Core.dll
+D:\Daekhon\Project\Dalsa linescan\JY\Sapera_Demo\Sapera_Demo\bin\Debug\Cognex.VisionPro3D.Display.Controls.dll
+D:\Daekhon\Project\Dalsa linescan\JY\Sapera_Demo\Sapera_Demo\bin\Debug\Cognex.VisionPro3D.dll
+D:\Daekhon\Project\Dalsa linescan\JY\Sapera_Demo\Sapera_Demo\bin\Debug\Cognex.VisionPro3D.Graphic.dll
+D:\Daekhon\Project\Dalsa linescan\JY\Sapera_Demo\Sapera_Demo\bin\Debug\DALSA.SaperaLT.SapClassBasic.dll
+D:\Daekhon\Project\Dalsa linescan\JY\Sapera_Demo\Sapera_Demo\bin\Debug\Cognex.VisionPro.Interop.Core.dll
+D:\Daekhon\Project\Dalsa linescan\JY\Sapera_Demo\Sapera_Demo\bin\Debug\stdole.dll
+D:\Daekhon\Project\Dalsa linescan\JY\Sapera_Demo\Sapera_Demo\bin\Debug\Cognex.VisionPro.xml
+D:\Daekhon\Project\Dalsa linescan\JY\Sapera_Demo\Sapera_Demo\bin\Debug\Cognex.VisionPro.Core.xml
+D:\Daekhon\Project\Dalsa linescan\JY\Sapera_Demo\Sapera_Demo\bin\Debug\Cognex.VisionPro.CorePlus.xml
+D:\Daekhon\Project\Dalsa linescan\JY\Sapera_Demo\Sapera_Demo\bin\Debug\Cognex.VisionPro.Display.Controls.xml
+D:\Daekhon\Project\Dalsa linescan\JY\Sapera_Demo\Sapera_Demo\bin\Debug\Cognex.VisionPro.FGGigE.xml
+D:\Daekhon\Project\Dalsa linescan\JY\Sapera_Demo\Sapera_Demo\bin\Debug\Cognex.VisionPro.ImageFile.xml
+D:\Daekhon\Project\Dalsa linescan\JY\Sapera_Demo\Sapera_Demo\bin\Debug\Cognex.VisionPro.ImageProcessing.xml
+D:\Daekhon\Project\Dalsa linescan\JY\Sapera_Demo\Sapera_Demo\bin\Debug\Cognex.VisionPro.ToolGroup.xml
+D:\Daekhon\Project\Dalsa linescan\JY\Sapera_Demo\Sapera_Demo\bin\Debug\Cognex.VisionPro3D.xml
+D:\Daekhon\Project\Dalsa linescan\JY\Sapera_Demo\Sapera_Demo\bin\Debug\Cognex.VisionPro3D.Core.xml
+D:\Daekhon\Project\Dalsa linescan\JY\Sapera_Demo\Sapera_Demo\bin\Debug\Cognex.VisionPro3D.Display.Controls.xml
+D:\Daekhon\Project\Dalsa linescan\JY\Sapera_Demo\Sapera_Demo\bin\Debug\Cognex.VisionPro3D.Graphic.xml
+D:\Daekhon\Project\Dalsa linescan\JY\Sapera_Demo\Sapera_Demo\obj\Debug\Sapera_Demo.csprojResolveAssemblyReference.cache
+D:\Daekhon\Project\Dalsa linescan\JY\Sapera_Demo\Sapera_Demo\obj\Debug\Sapera_Demo.Form_Main.resources
+D:\Daekhon\Project\Dalsa linescan\JY\Sapera_Demo\Sapera_Demo\obj\Debug\Sapera_Demo.Properties.Resources.resources
+D:\Daekhon\Project\Dalsa linescan\JY\Sapera_Demo\Sapera_Demo\obj\Debug\Sapera_Demo.csproj.GenerateResource.Cache
+E:\Daekhon\Project\Dalsa linescan\JY\Sapera_Demo\Sapera_Demo\bin\Debug\Sapera_Demo.exe.config
+E:\Daekhon\Project\Dalsa linescan\JY\Sapera_Demo\Sapera_Demo\obj\Debug\Sapera_Demo.exe
+E:\Daekhon\Project\Dalsa linescan\JY\Sapera_Demo\Sapera_Demo\obj\Debug\Sapera_Demo.pdb
